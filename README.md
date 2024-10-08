@@ -6,8 +6,7 @@
  
 *   Sequoia
 
- 
-![About mac]()
+ ![About mac](https://github.com/user-attachments/assets/ad48aac0-ef6c-4cdd-ac9a-7c5914c0e6a5)
 
 Check [Dortania's Guide](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/) for unsupported hardware like SSD and WLAN cards and replace them with supported ones<br/>
 Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else disable it in config.plist 
@@ -85,3 +84,4 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 |[VoodooRMI.kext](https://github.com/VoodooSMBus/VoodooRMI)|Synaptic Trackpad driver over SMBus/I2C for macOS|
 
 ## Screenshots
+![amd-power](https://github.com/user-attachments/assets/be0c0d78-3714-4728-84c0-f0112f86efac)
