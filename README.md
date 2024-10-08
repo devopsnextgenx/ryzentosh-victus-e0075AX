@@ -45,8 +45,6 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Battery | ✅ | SMCBatteryManager.kext |
 | iServices | ✅ | Message/Facetime tested and working |
 | Shutdown/Reboot | ✅ | |
-| Sleep/Wake | ✅ | |
-
 ## What's not Working
 
 | Item | Status | Notes |
@@ -57,6 +55,8 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Audio | ❌ | AppleALC kext working with layout-id 11 |
 | Mic | ❌ | Is it possible using? [AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone) |
 | Trackpad | ❌ | Synaptics Touchpad with AMD I2C Controller |
+| Sleep/Wake | ❌ | Not sure if its working |
+
 
 ## Kexts Used
 
