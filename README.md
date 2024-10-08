@@ -41,7 +41,6 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | Brightness Control | ✅ | NootedRed |
 | USB | ✅ | All ports working with [USBMap](https://github.com/corpnewt/USBMap "USBMap")|
 | Keyboard | ✅ | Voodoops2controller.Kext |
-| Mic | ✅ | Partially Working, Use the patch [AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone) |
 | Ethernet | ✅ | RealtekRTL8111.kext |
 | Battery | ✅ | SMCBatteryManager.kext |
 | iServices | ✅ | Message/Facetime tested and working |
@@ -56,6 +55,7 @@ Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else 
 | WIFI | ❌ | Unsupported Chipset |
 | Bluetooth | ❌ | Unsupported Chipset |
 | Audio | ❌ | AppleALC kext working with layout-id 11 |
+| Mic | ❌ | Is it possible using? [AMDMicrophone](https://github.com/qhuyduong/AMDMicrophone) |
 | Trackpad | ❌ | Synaptics Touchpad with AMD I2C Controller |
 
 ## Kexts Used
