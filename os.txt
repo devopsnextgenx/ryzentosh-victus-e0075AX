@@ -1,0 +1,58 @@
+─ CPU
+  └── AMD Ryzen 5 5600H with Radeon Graphics
+      ├── SSE: SSE4A
+      ├── SSSE3: Supported
+      ├── Cores: 6
+      ├── Threads: 12
+      └── Codename: Cezanne
+
+─ Motherboard
+  ├── Model: 88EB
+  └── Vendor: HP
+
+─ GPU
+  └── Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]
+      ├── Device ID: 0x1638
+      ├── Vendor: 0x1002
+      ├── ACPI Path: \_SB_.PCI0.GP17.VGA_
+      ├── PCI Path: PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x0)
+      └── Codename: Renoir
+
+─ Network
+  ├── RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+  │   ├── Device ID: 0x8168
+  │   ├── Vendor: 0x10ec
+  │   ├── ACPI Path: \_SB_.PCI0.GPP1.XPDV
+  │   └── PCI Path: PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x0)
+  └── RTL8852AE 802.11ax PCIe Wireless Network Adapter
+      ├── Device ID: 0x8852
+      └── Vendor: 0x10ec
+
+─ Audio
+  ├── Renoir Radeon High Definition Audio Controller
+  │   ├── Device ID: 0x1637
+  │   ├── Vendor: 0x1002
+  │   ├── ACPI Path: \_SB_.PCI0.GP17.HDAU
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x1)
+  │   └── Codec: R6xx HDMI
+  ├── Family 17h/19h HD Audio Controller
+  │   ├── Device ID: 0x15e3
+  │   ├── Vendor: 0x1022
+  │   ├── ACPI Path: \_SB_.PCI0.GP17.AZAL
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x6)
+  │   └── Codec: ALC245
+
+─ Storage
+  ├── Sandisk Corp WD Blue SN570 1TB
+  │   ├── Type: Non-Volatile Memory Express (NVMe)
+  │   ├── Connector: PCIe
+  │   └── Location: Internal
+  ├── Micron CT2000X6SSD9
+  │   ├── Type: Hard Disk Drive (HDD)
+  │   ├── Connector: SCSI
+  │   └── Location: Internal
+  └── SK hynix SK hynix PC711 HFS512GDE9X073N
+      ├── Type: Non-Volatile Memory Express (NVMe)
+      ├── Connector: PCIe
+      └── Location: Internal
+
